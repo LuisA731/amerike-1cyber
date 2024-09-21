@@ -7,3 +7,5 @@
  - [Practica-05](./practica-05.md)
 
  - [Practica-06](https://github.com/LuisA731/practica-6)
+   
+   [Practica-07](https://github.com/LuisA731/practica-6)
