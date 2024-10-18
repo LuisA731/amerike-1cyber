@@ -1,0 +1,69 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+
+.inicio {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: xx-large;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+body{
+  font-size: large;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.Sinopsis {
+  text-align: center;
+}
+
+
+table {
+  margin: 0 auto; 
+  border-collapse: collapse;
+  width: 80%; 
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+table img {
+  width: 500px; 
+  height: auto;
+}
+
+article.principal {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 800px; 
+  background-color: #f4f4f4;
+  border-radius: 8px; 
+}
+
+ul, ol {
+  padding-left: 40px; 
+}
+
+p {
+  line-height: 1.6; 
+}
